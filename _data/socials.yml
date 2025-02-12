@@ -2,15 +2,19 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: untitledsoundtrack@posteo.at # your email address
+linkedin_username: florian-bauer-0b72b3197 # your LinkedIn user name
+github_username: untitled-soundtrack # your GitHub user name
+vimeo_id: bewegtbildkonstrukteur
+flickr_id: untitledsoundtrack
+tumblr_url: https://untitled-soundtrack.tumblr.com/ # your blogger URL
+zotero_username: _florian_bauer_ # your zotero username
+
 # acm_id: # your dl.acm.org/profile/id
-blogger_url: https://untitled-soundtrack.tumblr.com/ # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: untitledsoundtrack@posteo.at # your email address
 # facebook_id: # your facebook id
-flickr_id: untitledsoundtrack
-github_username: untitled-soundtrack # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
@@ -20,7 +24,6 @@ github_username: untitled-soundtrack # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: florian-bauer-0b72b3197 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -41,11 +44,6 @@ linkedin_username: florian-bauer-0b72b3197 # your LinkedIn user name
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
+# work_url: work page URL
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: _florian_bauer_ # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
-#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#  title: Custom Social
-#  url: https://www.alberteinstein.com/

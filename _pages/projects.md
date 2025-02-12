@@ -5,9 +5,19 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [dev, testing, video]
 horizontal: false
 ---
+
+<div class="tag-category-list">
+    <ul class="p-0 m-0">      
+    {% for category in page.display_categories %}
+        <li>
+          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{slugify | prepend: '/projects/#'}}{{category}}">{{ category }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">

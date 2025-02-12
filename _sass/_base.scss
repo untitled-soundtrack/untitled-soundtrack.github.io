@@ -167,8 +167,8 @@ ul.task-list input[type="checkbox"] {
 // Card
 
 .card {
-  background-color: var(--global-card-bg-color);
-
+  //background-color: var(--global-card-bg-color);
+  background-color: $portfolio-bg-color;
   .card-img {
     width: 100%;
     padding-top: 1.25rem;
@@ -667,9 +667,12 @@ footer.sticky-bottom {
   }
 
   .card {
+    box-shadow: none !important;
     img {
       width: 100%;
+      border-radius: 10px;
     }
+   
   }
 
   .col {

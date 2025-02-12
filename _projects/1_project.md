@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: elsewhere Prototyp
+description: Ein Spiel in Unity
+img: assets/img/projects/design-project_thumbnail_v1.png
 importance: 1
-category: work
+category: dev
 related_publications: true
 ---
 

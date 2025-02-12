@@ -1,14 +1,14 @@
-- title: General Information
+- title: Allgemeine Informationen
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Florian Bauer
+    - name: Geburtsdatum
+      value: 11. Juni 1990
+    - name: Sprachen
+      value: Deutsch, Englisch
 
-- title: Education
+- title: Ausbildung
   type: time_table
   contents:
     - title: PhD

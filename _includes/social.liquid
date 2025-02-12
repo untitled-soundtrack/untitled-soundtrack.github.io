@@ -2,8 +2,8 @@
   {% case social[0] %}
     {% when 'acm_id' %}
       <a href="https://dl.acm.org/profile/{{ social[1] }}/" title="ACM DL"><i class="ai ai-acm"></i></a>
-    {% when 'blogger_url' %}
-      <a href="{{ social[1] }}" title="Blogger"><i class="fa-brands fa-blogger-b"></i></a>
+    {% when 'tumblr_url' %}
+      <a href="{{ social[1] }}" title="tumblr"><i class="fa-brands fa-tumblr"></i></a>
     {% when 'bluesky_url' %}
       <a href="{{ social[1] }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
     {% when 'dblp_url' %}
@@ -88,8 +88,8 @@
       <a href="{{ social[1] }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
     {% when 'x_username' %}
       <a href="https://twitter.com/{{ social[1] }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
-    {% when 'youtube_id' %}
-      <a href="https://youtube.com/@{{ social[1] }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+    {% when 'vimeo_id' %}
+      <a href="https://vimeo.com/{{ social[1] }}" title="Vimeo"><i class="fa-brands fa-vimeo-square"></i></a>
     {% when 'zotero_username' %}
       <a href="https://www.zotero.org/{{ social[1] }}" title="Zotero"><i class="ai ai-zotero"></i></a>
     {% else %}
