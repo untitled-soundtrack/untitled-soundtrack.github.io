@@ -2,11 +2,18 @@
 layout: page
 title: elsewhere Prototyp
 description: Spielbare Erinnerungskultur
-img: assets/img/projects/design-project_thumbnail_v1.png
+img: assets/img/projects/dev-202411_elsewhere/dev-202411_elsewhere_tumbnail_v1.png
 importance: 1
 category: dev
+images:
+    slider: true
 ---
 
+<div class="header-pic">
+    {% include figure.liquid loading="eager" path="assets/img/projects/dev-202411_elsewhere/202411_elsewhere-header.png" %}
+</div>
+
+---
 ### Kurzbeschreibung
 elsewhere ist ein `Exploration Puzzle Game`, das die Familiengeschichte der Familie Weiss durch das Finden und Sortieren von Artefakten spielerisch vermittelt. Spielende entdecken Fotos, Dokumente und Bücher aus dem Familienarchiv von Else Weiss und ordnen sie richtig zu.
 
@@ -20,19 +27,30 @@ Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioB
 <i title="Github" class="techstack fa-brands fa-github"></i>
 
 ---
+### Aufgaben & Learnings
+
+- Konzeption des Gameplays (<i class="fa-solid fa-plus"></i>)
+- Erstellung der Spielinhalte
+- Anpassung der 3D-Modelle in Blender
+- Level Design mit Unity ProBuilder (<i class="fa-solid fa-plus"></i>)
+- Umsetzung (Programmierung) der Spielemechanik (<i class="fa-solid fa-plus"></i>)
+- Building & Versionierung mit Git (<i class="fa-solid fa-plus"></i>)
+- Erstellung von simplen Unit-Tests im Unity Test Framework (<i class="fa-solid fa-plus"></i>)
+
+---
 ### Demo-Video
 <div class="video-container">
     {% include video.liquid path="https://player.vimeo.com/video/974895716?h=eb711b5696&amp" %}
 </div>
 
-
 ---
-### Aufgaben & Learnings
-
-- Konzeption
-- Anpassung 3D-Modelle
-- Programmierung der Spielemechanik
-- Versionierung & Building
+### Screenshots
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/dev-202411_elsewhere/elsewhere-01.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/dev-202411_elsewhere/elsewhere-02.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/dev-202411_elsewhere/elsewhere-03.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/dev-202411_elsewhere/elsewhere-04.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 ---
 ### Referenzen

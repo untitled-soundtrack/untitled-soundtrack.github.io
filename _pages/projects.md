@@ -2,10 +2,10 @@
 layout: page
 title: Projekte
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Ausgewählte Projekte der letzten Jahre.
 nav: true
 nav_order: 2
-display_categories: [dev, testing, video]
+display_categories: [dev, video]
 horizontal: false
 ---
 

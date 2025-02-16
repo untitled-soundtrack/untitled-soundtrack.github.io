@@ -6,7 +6,7 @@ subtitle: Digitaler Sammler & Bastler
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Brigittenauer Lände 22/16-17</p>
@@ -27,12 +27,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Vielseitiger Bewegtbild-Konstrukteur mit mehrjähriger Berufserfahrung in der Fernseh- und Telekommunikationsbranche
+Ich bin ein `Bewegtbild-Konstrukteur` mit einem Faible für Technik, Kreativität und interaktive Medien. In den letzten 
+Jahren habe ich mich intensiv mit `Corporate- und Employer-Branding-Inhalten` beschäftigt – von animierten Erklärvideos über 
+Pressekonferenzen und Podcasts bis hin zu TV-Programmierung und Imagevideos. Nebenbei zieht es mich aber auch in `kreativere 
+Bereiche`: Musikvideos, dokumentarische Projekte und experimentelle Filmformate sind meine Spielwiese.
 
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Meine Reise in die Welt der interaktiven Medien begann durch meine Arbeit als `IT Multimedia Products Engineer`. Dort hatte 
+ich erste Berührungspunkte mit App- und Webprojekten, darunter eine Video-on-Demand-Anwendung, und entdeckte meine 
+Begeisterung für `Automatisierungsprozesse`. Das weckte den Wunsch, mein Wissen noch weiter zu vertiefen – also entschied
+ich mich, meinen Bachelor in Medientechnik (Schwerpunkt AV-Medien) mit einem Master in `Interactive Technologies` – 
+Masterklasse Mobile zu ergänzen.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Das Studium hat mir nicht nur einen Überblick über aktuelle Frameworks und moderne Programmierparadigmen verschafft, 
+sondern auch meine Leidenschaft für `digitale Archivarbeit` und `digitale Spiele` neu entfacht. Diese konnte ich im Rahmen 
+eines Forschungsprojekts und meiner Masterarbeit direkt umsetzen. Außerdem hat sich ein Fokus auf `Softwaretestung` und 
+Qualitätssicherung entwickelt – ein Bereich, der mich immer wieder aufs Neue fasziniert.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+Ich mag es, wenn Technik und Kreativität zusammenkommen – sei es durch Bewegtbild, interaktive Medien oder 
+smarte Automatisierungslösungen. Immer mit dem Ziel, Dinge zu basteln.
+
