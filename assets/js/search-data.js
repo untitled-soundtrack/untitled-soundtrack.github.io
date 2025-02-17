@@ -45,7 +45,17 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "projects-flimmerkiste",
+    },{id: "projects-drei",
+          title: 'Drei',
+          description: "IT Multimedia Products Engineer &amp; Video Producer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/av-2022_drei/";
+            },},{id: "projects-karrierereporter",
+          title: 'karrierereporter',
+          description: "Employer-Branding-Videos für karriere.at",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/av-2023_karriere/";
+            },},{id: "projects-flimmerkiste",
           title: 'flimmerkiste',
           description: "Alle öffentlich-rechtlichen Mediatheken in einer App",
           section: "Projects",handler: () => {
