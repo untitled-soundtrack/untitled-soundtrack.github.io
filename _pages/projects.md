@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ausgewählte Projekte der letzten Jahre.
 nav: true
 nav_order: 2
-display_categories: [dev, video]
+display_categories: [dev, av]
 horizontal: false
 ---
 
