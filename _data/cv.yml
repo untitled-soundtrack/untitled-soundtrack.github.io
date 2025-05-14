@@ -1,4 +1,4 @@
-- title: Allgemeine Informationen
+- title: Basics
   type: map
   contents:
     - name: Name
@@ -8,7 +8,7 @@
     - name: Sprachen
       value: Deutsch, Englisch
 
-- title: Ausbildung
+- title: Education
   type: time_table
   contents:
     - title: PhD

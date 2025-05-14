@@ -510,12 +510,15 @@ footer.sticky-bottom {
   margin-bottom: 40px;
 
   .card {
-    background-color: var(--global-card-bg-color);
-    border: 1px solid var(--global-divider-color);
-
+    background-color: transparent;
+    //background-color: var(--global-card-bg-color);
+    //border: 1px solid var(--global-divider-color);
+    border: 0px;
+    box-shadow: none;
+    
     .list-group-item {
       background-color: inherit;
-      border-color: var(--global-divider-color);
+      border-color: transparent;;
 
       .badge {
         color: var(--global-card-bg-color) !important;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drei
-description: IT Multimedia Products Engineer & Video Producer
+description: IT Multimedia Products Engineer & Video Producer (2015 - 2022)
 img: assets/img/projects/av-2023_drei/av-2023_drei_thumbnail_v1.png
 importance: 1
 category: av

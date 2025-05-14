@@ -1,7 +1,7 @@
 ---
 layout: page
 title: karrierereporter
-description: Employer-Branding-Videos für karriere.at
+description: Employer-Branding-Videos für karriere.at (2022 - 2023)
 img: assets/img/projects/av-2023_karriere/av-2023_karriere_thumbnail_v1.png
 importance: 2
 category: av

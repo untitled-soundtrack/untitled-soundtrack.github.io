@@ -38,9 +38,9 @@ Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioB
 - Erstellung von simplen Unit-Tests im Unity Test Framework (<i class="fa-solid fa-plus"></i>)
 
 ---
-### Demo-Video
+### Trailer
 <div class="video-container">
-    {% include video.liquid path="https://player.vimeo.com/video/974895716?h=eb711b5696&amp" %}
+    {% include video.liquid path="https://player.vimeo.com/video/1082646405" %}
 </div>
 
 ---
