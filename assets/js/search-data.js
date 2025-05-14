@@ -47,12 +47,12 @@ ninja.data = [{
       },
     },{id: "projects-drei",
           title: 'Drei',
-          description: "IT Multimedia Products Engineer &amp; Video Producer",
+          description: "IT Multimedia Products Engineer &amp; Video Producer (2015 - 2022)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/av-2022_drei/";
             },},{id: "projects-karrierereporter",
           title: 'karrierereporter',
-          description: "Employer-Branding-Videos für karriere.at",
+          description: "Employer-Branding-Videos für karriere.at (2022 - 2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/av-2023_karriere/";
             },},{id: "projects-flimmerkiste",
@@ -80,6 +80,11 @@ ninja.data = [{
           description: "Spielbare Erinnerungskultur",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dev-202411_elsewhere/";
+            },},{id: "projects-impressum",
+          title: 'Impressum',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/impressum/";
             },},{
         id: 'social-email',
         title: 'email',
