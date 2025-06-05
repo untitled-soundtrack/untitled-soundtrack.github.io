@@ -9,9 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Brigittenauer Lände 22/16-17</p>
-    <p>1200 Wien</p>
-    <p>Österreich</p>
+    <a href="https://multimediabastler.at/assets/pdf//cv/cv-florian_bauer.pdf">Lebenslauf ansehen (PDF)</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
