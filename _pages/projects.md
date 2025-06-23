@@ -2,7 +2,7 @@
 layout: page
 title: Projekte
 permalink: /projects/
-description: Ausgewählte Projekte der letzten Jahre.
+description: Ausgewählte Projekte der letzten Jahre
 nav: true
 nav_order: 2
 display_categories: [av, dev]
