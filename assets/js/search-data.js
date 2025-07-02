@@ -47,7 +47,7 @@ ninja.data = [{
       },
     },{id: "projects-drei",
           title: 'Drei',
-          description: "IT Multimedia Products Engineer &amp; Video Producer (2015 - 2022)",
+          description: "Video Producer (2016 - 2022)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/av-2022_drei/";
             },},{id: "projects-karrierereporter",
@@ -55,6 +55,16 @@ ninja.data = [{
           description: "Employer-Branding-Videos für karriere.at (2022 - 2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/av-2023_karriere/";
+            },},{id: "projects-drei-film",
+          title: 'Drei Film',
+          description: "VoD bei Drei Österreich",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dev-201601_drei_film/";
+            },},{id: "projects-drei-live",
+          title: 'Drei Live',
+          description: "24h Musikvideokanal",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dev-201601_drei_live/";
             },},{id: "projects-flimmerkiste",
           title: 'flimmerkiste',
           description: "Alle öffentlich-rechtlichen Mediatheken in einer App",
