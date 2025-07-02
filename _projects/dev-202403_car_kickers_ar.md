@@ -3,7 +3,7 @@ layout: page
 title: AR-Multiplayer-Spiel
 description: Erste Schritte in Augmented Reality
 img: assets/img/projects/dev-202403_car_kickers_ar/dev-202403_car_kickers_ar_thumbnail_v1.png
-importance: 2
+importance: 5
 category: dev
 images:
     slider: true

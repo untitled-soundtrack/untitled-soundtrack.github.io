@@ -3,7 +3,7 @@ layout: page
 title: RegioBioGraph
 description: “Lebende” Archive filmisch erzählen
 img: assets/img/projects/dev-202308_regiobiograph/dev-202308_regiobiograph_thumbnail_v1.png
-importance: 4
+importance: 3
 category: dev
 images:
     slider: true

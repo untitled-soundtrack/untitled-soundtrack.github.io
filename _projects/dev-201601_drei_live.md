@@ -3,13 +3,13 @@ layout: page
 title: Drei Live
 description: 24h Musikvideokanal
 img: assets/img/projects/dev-201601_drei_tv/201601_drei_live-header_01_v1.png
-importance: 2
+importance: 4
 category: dev
 images:
     slider: true
 ---
 <div class="header-pic">
-    {% include figure.liquid loading="eager" path="assets/img/projects/dev-201601_drei_tv/201601_drei_live-header_01_v1.png" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/dev-201601_drei_tv/201601_drei_live-header_02_v1.png" %}
 </div>
 ---
 

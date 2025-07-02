@@ -3,7 +3,7 @@ layout: page
 title: PinGo
 description: Eine Location-Based App zum Erkunden
 img: assets/img/projects/dev-202305_pingo/dev-202305_pingo_thumbnail_v1.png
-importance: 3
+importance: 5
 category: dev
 images:
   slider: true

@@ -3,13 +3,13 @@ layout: page
 title: Drei Film
 description: VoD bei Drei Österreich
 img: assets/img/projects/dev-201601_drei_film/201601_drei_film-header_v1.png
-importance: 1
+importance: 2
 category: dev
 images:
     slider: true
 ---
 <div class="header-pic">
-    {% include figure.liquid loading="eager" path="assets/img/projects/dev-201601_drei_film/201601_drei_film-header_v1.png" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/dev-201601_drei_film/201601_drei_film-header_02_v1.png" %}
 </div>
 ---
 
