@@ -40,10 +40,10 @@ Phase kamen `automatisierte Tests` (Unit-Tests, e2e-Tests mit Cypress) hinzu, um
 
 ---
 ### Aufgaben & Learnings
-- **Frontend-Entwicklung mit Vue.js**: Implementierung von UI-Komponenten und Benutzerinteraktionen (<i class="fa-solid fa-plus"></i>)
+- **Frontend-Entwicklung mit Vue.js**: Implementierung von UI-Komponenten und Benutzerinteraktionen
 - **Erstellung von Wireframes & Mockups**: Nutzung von Adobe XD zur visuellen Planung der Benutzeroberfläche
 - **Design der User-Interfaces & Corporate Identity**: Entwicklung eines konsistenten UI-Designs gemäß CI-Richtlinien
-- **Testautomatisierung mit Cypress**: Erstellung von End-to-End-Tests (e2e) und Unit-Tests zur Sicherstellung der Funktionalität (<i class="fa-solid fa-plus"></i>)
+- **Testautomatisierung mit Cypress**: Erstellung von End-to-End-Tests (e2e) und Unit-Tests zur Sicherstellung der Funktionalität 
 
 ---
 ### Screenshots

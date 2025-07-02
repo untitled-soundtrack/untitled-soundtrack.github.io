@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drei
-description: IT Multimedia Products Engineer & Video Producer (2015 - 2022)
+description: Video Producer (2016 - 2022)
 img: assets/img/projects/av-2023_drei/av-2023_drei_thumbnail_v1.png
 importance: 1
 category: av
@@ -16,9 +16,6 @@ images:
 ---
 ### Kurzbeschreibung
 
-- Backend-Verwaltung des Video CMS (Encoding, Fehleranalyse, Entwicklungsvorschläge und Reparaturen)  
-- Inbetriebnahme, Automatisierung & Betreuung eines internen Playout Systems für einen 24-Stunden-Kanal  
-- Aufbereitung & Automatisierung zahlreicher Loop-Channels  
 - Produktion von Videos für das firmeneigene Intranet (Redaktion, Kamera, Ton und Postproduktion)
 - Produktion von firmeninternen Videos für verschiedenste Abteilungen (CorpComm, HR, BrandsComm, ...)  
 - Livestreaming von Pressegesprächen  

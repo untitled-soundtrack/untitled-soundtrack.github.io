@@ -41,14 +41,14 @@ für Theater-, Film- und Medienwissenschaft.
 ### Aufgaben & Learnings
 
 - **Weiterentwicklung des Export-Tools für MediaWiki & Topothek**: 
-Anpassung eines bestehenden CLI-Tools mit Node.js (ohne Framework) zur effizienten Datenübertragung an MediaWiki und Topothek. (<i class="fa-solid fa-plus"></i>)
+Anpassung eines bestehenden CLI-Tools mit Node.js (ohne Framework) zur effizienten Datenübertragung an MediaWiki und Topothek.
 - Um den barrierefreien und nutzerfreundlichen Einsatz zu erleichtern, wurde das Tool als ausführbare Datei für Windows und macOS exportiert.
 - **Analyse der API-Schnittstellen von Topothek & MediaWiki**: Untersuchung der verfügbaren API-Funktionen, um eine 
-optimale Integration und Datenübertragung zwischen den Plattformen zu ermöglichen. (<i class="fa-solid fa-plus"></i>)
+optimale Integration und Datenübertragung zwischen den Plattformen zu ermöglichen. 
 - **Archivarbeit & Mediensammlung für Biografien**: Für eine umfassende Darstellung der Biografien im Unity-Prototyp 
 wurden zahlreiche Medienelemente recherchiert, gesammelt und referenziert. Diese wurden in die lokale Topothek Groß-Enzersdorf 
 hochgeladen, wobei eine korrekte Formatierung der Mediendaten sichergestellt wurde. Insgesamt wurden ca. 100 Biografien mit 
-zugehörigen Medienelementen ergänzt und optimiert. (<i class="fa-solid fa-plus"></i>)
+zugehörigen Medienelementen ergänzt und optimiert.
 - **Entwicklung eines einfachen Testworkflows für den Unity-Prototyp**: Etablierung eines strukturierten Testprozesses, 
 um die Anwendung effizient zu evaluieren und die Nutzer:innenerfahrung zu verbessern. 
 - **Erarbeitung von Vorschlägen für Medienelement-Formate und Anwendungserweiterungen**: Analyse bestehender Medienelemente

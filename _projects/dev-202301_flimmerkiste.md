@@ -33,10 +33,10 @@ Der Kern von flimmerkiste ist der integrierte Video-Player, der Sendungen in MP4
 ---
 ### Aufgaben & Learnings
 - Einarbeitung in Flutter und Cross-Platform-Entwicklung: Grundlagen von Flutter und Programmiersprache Dart erlernt, 
-erste Erfahrungen mit State-Management gesammelt (<i class="fa-solid fa-plus"></i>)
+erste Erfahrungen mit State-Management gesammelt
 - Erstellung von Mockups und UI-Design für die App mit Figma
-- Unterstützung bei der Integration der Mediathek API und Anbindung an das Backend (<i class="fa-solid fa-plus"></i>)
-- Implementierung und Handling des Videoplayers für verschiedene Plattformen (<i class="fa-solid fa-plus"></i>)
+- Unterstützung bei der Integration der Mediathek API und Anbindung an das Backend
+- Implementierung und Handling des Videoplayers für verschiedene Plattformen
 - Durchführung und Evaluierung von Funktionstests der App
 
 ---

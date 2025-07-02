@@ -21,6 +21,8 @@ Dieser Prototyp wurde im Rahmen der `Masterarbeit` "Digitales Serious Gaming fü
 
 Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioBioGraph</a> zielt darauf ab, digitale Archivbestände filmisch zu strukturieren und zu vermitteln. <a href="https://research.fhstp.ac.at/projekte/gejide-gross-enzersdorfs-juedische-gemeinde-im-digitalen-erinnerungsraum">GEJIDE</a> adressiert die Herausforderungen der historischen Recherche und digitalen Erinnerungskultur, insbesondere im Kontext der jüdischen Gemeinde Groß-Enzersdorf.
 
+Präsentation des Spielprototyps im Rahmen des [Museumsfrühlings Niederösterreich](https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/).
+
 ---
 ### Technologien
 <i title="Unity" class="techstack fa-brands fa-unity"></i>
@@ -29,13 +31,13 @@ Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioB
 ---
 ### Aufgaben & Learnings
 
-- Konzeption des Gameplays (<i class="fa-solid fa-plus"></i>)
+- Konzeption des Gameplays
 - Erstellung der Spielinhalte
 - Anpassung der 3D-Modelle in Blender
-- Level Design mit Unity ProBuilder (<i class="fa-solid fa-plus"></i>)
-- Umsetzung (Programmierung) der Spielemechanik (<i class="fa-solid fa-plus"></i>)
-- Building & Versionierung mit Git (<i class="fa-solid fa-plus"></i>)
-- Erstellung von simplen Unit-Tests im Unity Test Framework (<i class="fa-solid fa-plus"></i>)
+- Level Design mit Unity ProBuilder
+- Umsetzung (Programmierung) der Spielemechanik 
+- Building & Versionierung mit Git
+- Erstellung von simplen Unit-Tests im Unity Test Framework
 
 ---
 ### Trailer
@@ -55,4 +57,4 @@ Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioB
 ---
 ### Referenzen
 - <a href="https://untitled-soundtrack.itch.io/elsewhere">Prototyp Download [itch.io]</a>
-
+- <a href="https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/">Museumsfrühling Niederösterreich</a>

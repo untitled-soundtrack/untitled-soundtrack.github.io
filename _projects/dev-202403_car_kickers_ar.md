@@ -37,10 +37,10 @@ zu realisieren. Dank plattformübergreifender Entwicklung ist das Spiel sowohl f
 ---
 ### Aufgaben & Learnings
 
-- **Erste Schritte in der Unity-Entwicklung**: Grundlagen der Spieleentwicklung mit Unity durch Tutorials erarbeitet (<i class="fa-solid fa-plus"></i>)
-- **UI/UX-Design und Menügestaltung**: Entwicklung und Implementierung benutzerfreundlicher Benutzeroberflächen (<i class="fa-solid fa-plus"></i>)
-- **3D-Asset-Integration**: Gestaltung und Einbindung von 3D-Modellen in das Spiel (<i class="fa-solid fa-plus"></i>)
-- **Multiplayer-Integration mit Photon**: Unterstützung bei der Implementierung von Netzwerkfunktionen für Mehrspielersitzungen (<i class="fa-solid fa-plus"></i>)
+- **Erste Schritte in der Unity-Entwicklung**: Grundlagen der Spieleentwicklung mit Unity durch Tutorials erarbeitet
+- **UI/UX-Design und Menügestaltung**: Entwicklung und Implementierung benutzerfreundlicher Benutzeroberflächen 
+- **3D-Asset-Integration**: Gestaltung und Einbindung von 3D-Modellen in das Spiel
+- **Multiplayer-Integration mit Photon**: Unterstützung bei der Implementierung von Netzwerkfunktionen für Mehrspielersitzungen
 
 ---
 ### Demo-Video
