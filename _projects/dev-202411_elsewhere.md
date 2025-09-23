@@ -1,4 +1,4 @@
-~~---
+---
 layout: page
 title: elsewhere Prototyp
 description: Spielbare Erinnerungskultur
@@ -6,7 +6,7 @@ img: assets/img/projects/dev-202411_elsewhere/dev-202411_elsewhere_tumbnail_v1.p
 importance: 1
 category: dev
 images:
-slider: true
+    slider: true
 ---
 
 <div class="header-pic">
