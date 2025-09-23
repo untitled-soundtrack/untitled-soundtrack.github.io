@@ -1,4 +1,4 @@
----
+~~---
 layout: page
 title: elsewhere Prototyp
 description: Spielbare Erinnerungskultur
@@ -6,7 +6,7 @@ img: assets/img/projects/dev-202411_elsewhere/dev-202411_elsewhere_tumbnail_v1.p
 importance: 1
 category: dev
 images:
-    slider: true
+slider: true
 ---
 
 <div class="header-pic">
@@ -17,11 +17,12 @@ images:
 ### Kurzbeschreibung
 elsewhere ist ein `Exploration Puzzle Game`, das die Familiengeschichte der Familie Weiss durch das Finden und Sortieren von Artefakten spielerisch vermittelt. Spielende entdecken Fotos, Dokumente und Bücher aus dem Familienarchiv von Else Weiss und ordnen sie richtig zu.
 
-Dieser Prototyp wurde im Rahmen der `Masterarbeit` "Digitales Serious Gaming für eine gestärkte Erinnerungskultur" für die Masterklasse "Mobile" im Masterstudiengang "Interactive Technologies" entwickelt. Es knüpft an die Forschungsprojekte RegioBioGraph und GEJIDE an, die sich mit innovativen Ansätzen zur digitalen Strukturierung und Vermittlung von Archivbeständen beschäftigen.
+Dieser Prototyp wurde im Rahmen der `Masterarbeit` ["Digitales Serious Gaming für eine gestärkte Erinnerungskultur"](https://multimediabastler.at/assets/pdf//publikationen/bauer-2025-masterarbeit_digitales_serious_saming_erinnerungskultur.pdf)  für die Masterklasse "Mobile" im Masterstudiengang "Interactive Technologies" entwickelt. Es knüpft an die Forschungsprojekte RegioBioGraph und GEJIDE an, die sich mit innovativen Ansätzen zur digitalen Strukturierung und Vermittlung von Archivbeständen beschäftigen.
 
 Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioBioGraph</a> zielt darauf ab, digitale Archivbestände filmisch zu strukturieren und zu vermitteln. <a href="https://research.fhstp.ac.at/projekte/gejide-gross-enzersdorfs-juedische-gemeinde-im-digitalen-erinnerungsraum">GEJIDE</a> adressiert die Herausforderungen der historischen Recherche und digitalen Erinnerungskultur, insbesondere im Kontext der jüdischen Gemeinde Groß-Enzersdorf.
 
-Präsentation des Spielprototyps im Rahmen des [Museumsfrühlings Niederösterreich](https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/).
+Präsentation des Spielprototyps im Rahmen des [Museumsfrühlings Niederösterreich](https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/)
+und [ein Blogartikel](https://www.noemuseen.at/news-list/blog-detail/news/detail/News/elsewhere/) im Auftrag des Museumsmanagements Niederösterreich über das Projekt.
 
 ---
 ### Technologien
@@ -35,7 +36,7 @@ Präsentation des Spielprototyps im Rahmen des [Museumsfrühlings Niederösterre
 - Erstellung der Spielinhalte
 - Anpassung der 3D-Modelle in Blender
 - Level Design mit Unity ProBuilder
-- Umsetzung (Programmierung) der Spielemechanik 
+- Umsetzung (Programmierung) der Spielemechanik
 - Building & Versionierung mit Git
 - Erstellung von simplen Unit-Tests im Unity Test Framework
 
@@ -57,4 +58,6 @@ Präsentation des Spielprototyps im Rahmen des [Museumsfrühlings Niederösterre
 ---
 ### Referenzen
 - <a href="https://untitled-soundtrack.itch.io/elsewhere">Prototyp Download [itch.io]</a>
-- <a href="https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/">Museumsfrühling Niederösterreich</a>
+- <a href="https://multimediabastler.at/assets/pdf//publikationen/bauer-2025-masterarbeit_digitales_serious_saming_erinnerungskultur.pdf">Masterarbeit [multimediabastler.at]</a>
+- <a href="https://www.noemuseen.at/news-list/blog-detail/news/detail/News/elsewhere/">Blogartikel "Elsewhere" [noemuseen.at]</a>
+- <a href="https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/">Museumsfrühling Niederösterreich [noemuseen.at]</a>
