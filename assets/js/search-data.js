@@ -85,11 +85,6 @@ ninja.data = [{
           description: "Erste Schritte in Augmented Reality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dev-202403_car_kickers_ar/";
-            },},{id: "projects-elsewhere-prototyp",
-          title: 'elsewhere Prototyp',
-          description: "Spielbare Erinnerungskultur",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/dev-202411_elsewhere/";
             },},{id: "projects-impressum",
           title: 'Impressum',
           description: "",
