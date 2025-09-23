@@ -22,7 +22,7 @@ Dieser Prototyp wurde im Rahmen der `Masterarbeit` ["Digitales Serious Gaming f�
 Das Projekt <a href="https://research.fhstp.ac.at/projekte/regiobiograph">RegioBioGraph</a> zielt darauf ab, digitale Archivbestände filmisch zu strukturieren und zu vermitteln. <a href="https://research.fhstp.ac.at/projekte/gejide-gross-enzersdorfs-juedische-gemeinde-im-digitalen-erinnerungsraum">GEJIDE</a> adressiert die Herausforderungen der historischen Recherche und digitalen Erinnerungskultur, insbesondere im Kontext der jüdischen Gemeinde Groß-Enzersdorf.
 
 Präsentation des Spielprototyps im Rahmen des [Museumsfrühlings Niederösterreich](https://www.noemuseen.at/museumsfruehling-niederoesterreich/veranstaltung/info/wider-das-vergessen/)
-und [ein Blogartikel](https://www.noemuseen.at/news-list/blog-detail/news/detail/News/elsewhere/) im Auftrag des Museumsmanagements Niederösterreich über das Projekt.
+und [ein Blogartikel](https://www.noemuseen.at/news-list/blog-detail/news/detail/News/elsewhere/) im Auftrag des Museumsmanagements Niederösterreich über das Projekt. 
 
 ---
 ### Technologien
